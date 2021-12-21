@@ -2,7 +2,7 @@
 
 
 
-
+bucket="uprgad-sagar"
 name="Sagar_S"
 mkdir temp
 apt update -y
